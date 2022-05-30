@@ -1,1 +1,13 @@
-
+Bug report:
+  Bug id: 1
+  Summury: Ошибка -Превышено время ожидания ответа от сайта sitename.com- при переходе на страницу модуля
+  Severity: block
+  Priority: high
+  Status: new
+  Author: Andrey Knyshov
+  Assigned To: Name
+  Environment: Windows 10 (64 бит). Google Chrome. Версия 99.0.4844.51 (Официальная сборка), (64 бит). STAGE
+  Steps to Reproduce: Открыть страницу https://sitename.com/
+  Result: Ошибка браузера -Не удается получить доступ к сайту. Превышено время ожидания ответа от сайта sitename.com
+  Expected Result: Страница https://sitename.com/ открывается в браузере
+  Attachment: Attachment1, Attachment2   
